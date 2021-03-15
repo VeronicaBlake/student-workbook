@@ -1,5 +1,6 @@
 # Day 1 - Intro to Codeworks 
-If this shows up it worked
+What I learned in coding school is how to get my boating license.
+
 ## Why do we use Git?
 
 ## What are the benifits of using multiple branches? 
