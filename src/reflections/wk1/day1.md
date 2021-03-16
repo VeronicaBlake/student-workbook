@@ -1,4 +1,4 @@
-# Day 1 - Intro to Codeworks 
+# Day 1 - Intro to Codeworks
 What I learned in coding school is how to get my boating license. No, wait, it was coding.
 
 ---
