@@ -7,6 +7,6 @@
   - [My Github](https://github.com)
   - [Portfolio](https://github.com)
 ## Contact
-  - Phone: 123-456-7890
-  - Email: student@student.com
+  - Phone: 701-425-1426
+  - Email: veronica.r.blake@gmail.com
   
