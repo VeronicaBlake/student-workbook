@@ -1,5 +1,5 @@
 # Day 1 - Intro to Codeworks
-What I learned in coding school is how to get my boating license. No, wait, it was coding.
+What I learned in coding school is how to drive a boat.
 
 ---
 
@@ -14,4 +14,4 @@ Multiple branches are beneficial because they allow the code to diverge in a way
 ---
 
 ## What is the difference between Git and Github?
-Git is a local repository, Github is a remote server that hosts Git and allows others to view or make changes to the Git. If Git is a train car, Github is the station. But the station is in the sky and everyone has their own train car that merges into a mega sky train. Bad analogy.
+Git is a local repository, Github is a remote server that hosts Git and allows others to view or make changes to the Git. If Git is a train car, Github is the station. But the station is in the sky and everyone has their own train car that merges into a mega sky train when they're done. Ok that's a bad analogy.
