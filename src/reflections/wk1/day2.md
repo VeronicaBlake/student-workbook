@@ -1,4 +1,5 @@
 # Day 2 - Review of HTML/CSS
+Daily Challenge: https://github.com/VeronicaBlake/Coolsite
 
 ## What is a Pseudo-Class, and what are some of the most common ones you think you will use?
 a pseudo-class is a style element that applies to an element when the element is in a particular state. Things like hovering, visited and unvisited links, and text boxes changing color when they're clicked. Coincidentally, I think those will be common ones that I will use a lot. 
