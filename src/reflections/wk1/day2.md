@@ -1,14 +1,18 @@
 # Day 2 - Review of HTML/CSS
 Daily Challenge: https://github.com/VeronicaBlake/Coolsite
 
+---
+
 ## What is a Pseudo-Class, and what are some of the most common ones you think you will use?
 a pseudo-class is a style element that applies to an element when the element is in a particular state. Things like hovering, visited and unvisited links, and text boxes changing color when they're clicked. Coincidentally, I think those will be common ones that I will use a lot. 
+
 ---
 
 ## What is Specificity, and how might you use it to your benefit?
 Specificity is the determining factor in code when multiple rules are targeting the same element, but assigning different vales to that element. (Essentially it's like the hierarchy of rules.)
 
 Specificity can allow for some flexibility in code if you need one instance of an element to run differently than all other times the element is run, or if you'd like to apply another, previously written rule to the element. It can also be useful for knowing when something will deploy, or to know what will happen to a certain element when it's run.
+
 ---
 
 ## What problems do you think you could run into if you over-utilized the !important feature?
