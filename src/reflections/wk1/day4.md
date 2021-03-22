@@ -16,12 +16,11 @@ see complex elements of a page as an easily understand box. It makes for a clear
 
 - **Low-fidelity**: easy to create, can be made on the fly as long as you have a pen and paper.
 
-- **Mid-fidelity**: Mid-fidelity wireframes look nicer than low-fidelity wireframes, and offer a little more structure and a clear(er) picture of what a final product might resemble. 
+- **Mid-fidelity**: Mid-fidelity wireframes look nicer than low-fidelity wireframes, and offer a little more structure and a clearer picture of what a final product might resemble. 
 
 - **High-fidelity**: This type has the most accurate and detailed layout, and looks a bit more polished. These wireframes are easier to style with specifics, and are good for later in the product design's life.
 
 ## Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
-As someone who was unintentionally using low-fidelity wireframes before I even knew there was a name for them, I would say that they're very helpful for anyone that needs a different visual structural representation of their project. Taking the time to map out what's going where, and what the element is (or could be written as) is super useful to refer back to when writing the code. 
+As someone who was unintentionally using low-fidelity wireframes before I even knew there was a name for them, I would say that they're very helpful for anyone that needs a different visual structural representation of their project. Taking the time to map out what's going where, and what the element is, or could be written as, is super useful to refer back to when writing the code. 
 
-I would advocate for wireframes, because they provide a framework that's easy to understand. They're like a rough draft, and save the brainwork of scaffolding when you're writing code. They can be shared easily, and if changes need to be made, it takes like 30 seconds to draft up a new one when changes need to be made (if you're doing it by hand, possibly less time if a computer system is being used).
-
+I would advocate for wireframes, because they provide a framework that's easy to understand. They're like a rough draft, and save the brainwork of scaffolding when you're writing code. They can be shared easily, and if changes need to be made, it takes like 30 seconds to draft up a new one when changes need to be made-if you're doing it by hand, possibly less time if a computer system is being used.
