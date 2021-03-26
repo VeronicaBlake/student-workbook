@@ -1,7 +1,6 @@
 # Intro to JavaScript
 
 **1.** Which keywords are used to declare a variable in JavaScript?
-<!-- enter you answer in the space below -->
 ```
 var, let and const
 ```
