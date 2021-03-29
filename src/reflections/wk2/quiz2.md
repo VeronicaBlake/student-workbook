@@ -31,9 +31,8 @@ let you = { name:"You", hair: true, friends: [] }
 let them = { name:"Them", hair: false, friends: [] }
 ```
 how would you .push the `them` object into the `you` object's array of friends?
-<!-- enter you answer in the space below -->
 ```
-
+you.friends.push.(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -51,25 +50,34 @@ else if - is used to specify a new condition to test if the first condition is f
 for ( let i = 0; i < arr.length; _______ ) {
 ```
 ```
-To increase the iteration of i every rotation, you would put "i++". The name of this element is the Incriment Statement.
+To increase the iteration of i every rotation, you would put "i++". The name of this element is the Increment Statement.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
-<!-- enter you answer in the space below -->
-```Dom stands for Dz
+```Dom stands for Document Object Model. The file first accessed to render the DOM is HTML and then JavaScript.
 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
-<!-- enter you answer in the space below -->
 ```
+Data Types: that are primitives
+undefined 
+Boolean 
+Number 
+String 
+BigInt 
+Symbol 
 
+Structural Types:
+Object 
+Function
+
+Structural Root Primitive:
+null 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 ```
 A parameter is essentially a placeholder argument. The parameter can show what will be given to the function, but the argument is what is passed in the specific instance. 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
-<!-- enter you answer in the space below -->
 ```
-
-```
+Values that are primitive store actual values, and reference values store the addresses of the objects they reference. 
