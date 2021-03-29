@@ -2,10 +2,12 @@
 https://github.com/VeronicaBlake/js-tests-basics
 
 ## What is scope?
+
 Scope is where the variables are available for use within/outside of functions. 
 ---
 
 ## What is hoisting?
+
 Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution.
 ---
 

@@ -53,7 +53,8 @@ for ( let i = 0; i < arr.length; _______ ) {
 To increase the iteration of i every rotation, you would put "i++". The name of this element is the Increment Statement.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
-```Dom stands for Document Object Model. The file first accessed to render the DOM is HTML and then JavaScript.
+```
+Dom stands for Document Object Model. The file first accessed to render the DOM is HTML and then JavaScript.
 
 ```
 
