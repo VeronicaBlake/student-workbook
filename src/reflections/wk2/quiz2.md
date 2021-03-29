@@ -5,19 +5,21 @@
 var, let and const
 ```
 **2.** What is the definition of a function?
-<!-- enter you answer in the space below -->
 ```
-
+"A function is a reusable set of statements to perform a task or calculate a value."
 ```
 **3.** What are the `SOLID` principles?
-<!-- enter you answer in the space below -->
 ```
-
+Single Use - everything has one job, and it does that job.
+Open/close principal - open for extension, but closed for modification.
+Liskov Substitution - every subclass or derived class should be substitutable for their base or parent class.
+Interface Segregation Principle - Clients should be able to work your product with the interface they have 
+Dependency Inversion - decoupling but more complex.
 ```
 **4.** Given this array: 
 ```js
 let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
-``` 
+```
 What index is the pineapple's current position? How do you know?
 Pineapple is in position 2. It is this way because of the zero based indexing.
 ```
@@ -35,22 +37,25 @@ how would you .push the `them` object into the `you` object's array of friends?
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
-<!-- enter you answer in the space below -->
 ```
+if -  is used to specity a block of code to executed, if a condition is 'truthy'
+    if the dress is blue, print 'true'. 
+else - used to specify a block of code to executed, if the same condition of a proceeding if statement is 'falsy'
+      if the dress is blue, print true. else, print false. 
+else if - is used to specify a new condition to test if the first condition is false
+      if the dress is blue, print 'true'. else if dress is red, print 'red'.
 
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
 for ( let i = 0; i < arr.length; _______ ) {
-  //...
 ```
-<!-- enter you answer in the space below -->
 ```
-
+To increase the iteration of i every rotation, you would put "i++". The name of this element is the Incriment Statement.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
-```
+```Dom stands for Dz
 
 ```
 
@@ -60,9 +65,8 @@ for ( let i = 0; i < arr.length; _______ ) {
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
-<!-- enter you answer in the space below -->
 ```
-
+A parameter is essentially a placeholder argument. The parameter can show what will be given to the function, but the argument is what is passed in the specific instance. 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
