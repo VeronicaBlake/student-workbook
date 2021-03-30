@@ -24,8 +24,8 @@ let property = 'name'
 
 ```
 **4.** What does the S stand for in the `SOLID` principles?
-<!-- enter you answer in the space below -->
 ```
+Single Use 
 
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
