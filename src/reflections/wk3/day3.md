@@ -3,6 +3,11 @@ https://codeworksacademy.com/fs-student-guide/resources/wk3/03-Proxies/
 
 ## What are the two common operations that we will set in the handler?
 
+The two common operations that we will set in the handler are: 
+
+1. Get - 
+2. Set -
+
 
 ---
 
