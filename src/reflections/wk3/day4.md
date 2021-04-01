@@ -3,9 +3,17 @@ https://codeworksacademy.com/fs-student-guide/resources/wk3/04-ObserverPattern/
 
 ## What problems does the Observer Pattern seek to solve?
 
+The observer pattern seeks to solve one-to-many, one-way, and event-driven data binding.
+
 ---
 
 ## What are the three mechanisms of the observer pattern?
+
+The Three mechanisms of the observer pattern are:
+
+-Subscribe: Adds new events  
+-Unsubscribe: Removes events
+-Broadcast: Calls all events
 
 ---
 
