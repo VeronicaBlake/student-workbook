@@ -1,9 +1,11 @@
 # The Observer Pattern
 https://codeworksacademy.com/fs-student-guide/resources/wk3/04-ObserverPattern/
 
+Project: 
+
 ## What problems does the Observer Pattern seek to solve?
 
-The observer pattern seeks to solve one-to-many, one-way, and event-driven data binding.
+The observer pattern really takes the single responsibility principle to the max. This way, there is a list of events (all listed in the designated list), that are being observed by a single observer. 
 
 ---
 

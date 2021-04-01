@@ -1,6 +1,8 @@
 # Encapsulation in JavaScript
 https://codeworksacademy.com/fs-student-guide/resources/wk3/02-Encapsulation/
 
+Project: https://github.com/VeronicaBlake/vending-machine
+
 ## What is the purpose of Encapsulation?
 
 The purpose of encapsulation is to bundle data together, and hide it from the outside. The object stores its state privately, and can only be accessed through methods.
