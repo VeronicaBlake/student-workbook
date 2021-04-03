@@ -1,4 +1,5 @@
 # The Observer Pattern
+
 https://codeworksacademy.com/fs-student-guide/resources/wk3/04-ObserverPattern/
 
 Project: https://github.com/THUNDER-DANIEL/sportingGoods

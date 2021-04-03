@@ -1,4 +1,5 @@
 # Encapsulation in JavaScript
+
 https://codeworksacademy.com/fs-student-guide/resources/wk3/02-Encapsulation/
 
 Project: https://github.com/VeronicaBlake/vending-machine

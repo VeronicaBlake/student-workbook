@@ -1,4 +1,5 @@
 # Intro to Javascript Proxy Objects
+
 https://codeworksacademy.com/fs-student-guide/resources/wk3/03-Proxies/
 
 ## What are the two common operations that we will set in the handler?
