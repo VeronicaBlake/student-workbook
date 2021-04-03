@@ -23,4 +23,4 @@ The Three mechanisms of the observer pattern are:
 
 ## Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 
-
+The BCW template uses get and set to create a proxy of the Appstate, which is then exported whenever the things in the Appstate are called. This allows us to use everything in the Appstate without changing the hard coded data in there, letting all of the good stuff that comes with MVC pattern and proxy objects. Is that kind of close? That's the closest I can come with my limited understanding. 
