@@ -20,5 +20,5 @@ The client function must be defined as async, which means it will return a promi
 Some of the primary benefits of async/await are: 
 - The code is much simpler to read, which is better for everyone.
 - Async functions can be chained easily (and are easy to read)
-- Debugging is easier compared to just straight promises 
+- Debugging is easier compared to just straight promises,
 

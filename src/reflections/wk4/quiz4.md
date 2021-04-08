@@ -1,18 +1,21 @@
 # UnderStanding Asynchronous Code, and API's
 
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
-<!-- enter you answer in the space below -->
+
 ```
+Asynchronous code waits on a promise from another part of the code to fire, synchronous just kind of does its own thing. one is conditional, and the other is not. 
 
 ```
 **2.** What is an event listener?
-<!-- enter you answer in the space below -->
+
 ```
+An event listener is added on to an object in order to fire when a change is made to that object. It waits and listens for the object to change, and then makes the changes. 
 
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
-<!-- enter you answer in the space below -->
+
 ```
+O: Open-closed principle. Objects should be open for extension, but closed for modification. It's like improv, they can "yes and", not change the entire situation.
 
 ```
 **4.** What is a callback / higher order function?
@@ -51,7 +54,8 @@
 
 ```
 **11.** What is a 500 error?
-<!-- enter you answer in the space below -->
+
 ```
+Something has gone wrong on the internal server, but the server can't be more specific about what.
 
 ```
