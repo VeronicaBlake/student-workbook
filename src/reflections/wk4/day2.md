@@ -1,7 +1,7 @@
 # JavaScript Promises
 
 
-Project: 
+Project: https://github.com/VeronicaBlake/gregslist-take2
 
 ## What are the three states of a Promise?
 
