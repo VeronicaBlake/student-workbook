@@ -1,8 +1,6 @@
 # REST
 
-
-
-Project: 
+Project: https://github.com/NicoleMelone/musicchallenge
 
 ## What does REST stand for, and in simple terms what does it mean?
 
@@ -22,3 +20,5 @@ This essentially means that the API won't remember anything about the user. Ever
 ---
 
 ## What URL pattern is used when writing a RESTful API?
+
+When writing a RESTful API, I think you use the CRUD pattern. I wasn't really able to discern an answer to this question using just the article, but that might just be me. 
