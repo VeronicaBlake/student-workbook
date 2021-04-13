@@ -2,7 +2,7 @@
 
 https://codeworksacademy.com/fs-student-guide/resources/wk5/02-Relationships/
 
-Project: 
+Project: https://github.com/VeronicaBlake/gregslist-node
 
 ## What are the three types of relationships?
 
