@@ -1,4 +1,4 @@
-# Callback Hell
+# Component Based Architecture
 
 
 Project: https://github.com/VeronicaBlake/vue-playground
