@@ -1,6 +1,5 @@
 # How to use Props in Vue
 
-
 Project: https://github.com/VeronicaBlake/vue-pokemon
 
 ## What are props?
