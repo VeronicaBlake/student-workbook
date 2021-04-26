@@ -3,7 +3,7 @@
 Reading: https://codeworksacademy.com/fs-student-guide/resources/wk6/04-ChildRoutes/
 
 
-Project: 
+Project: https://github.com/VeronicaBlake/bloggr-vue
 
 ## What is a nested route?
 
