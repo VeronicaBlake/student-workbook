@@ -8,8 +8,11 @@
 ```
 
 **2.** The `SPA` acronym stands for what?
-<!-- enter you answer in the space below -->
+
 ```
+Single
+Page
+Application
 
 ```
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
@@ -18,8 +21,9 @@
 
 ```
 **4.** What does the `onMounted` method in Vue do?
-<!-- enter you answer in the space below -->
+
 ```
+onMounted is a function that runs when a page is first initialized. So anything in it runs when the page is initialized.
 
 ```
 **5.** What is the `v-model` attribute in Vue for, and when might you use it?
@@ -45,5 +49,7 @@
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
+
+The <slot> element is used to inject data into another element
 
 ```
