@@ -2,8 +2,12 @@
 
 
 **1.** Describe the two ways to bind Data in Vue?
-<!-- enter you answer in the space below -->
+
 ```
+
+v-model: bind variables inside of an HTML attribute
+
+double curly bois: binds a variable from the relative component 
 
 ```
 
@@ -16,8 +20,10 @@ Application
 
 ```
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
-<!-- enter you answer in the space below -->
+
 ```
+
+A SPA will load more quickly than a traditional web application, as it only has to keep loading the router link instead of the entire page over and over. It's also got to be easier to write from a code standpoint, as you can make use of the components/pages to reuse structures and code.
 
 ```
 **4.** What does the `onMounted` method in Vue do?
@@ -27,29 +33,35 @@ onMounted is a function that runs when a page is first initialized. So anything 
 
 ```
 **5.** What is the `v-model` attribute in Vue for, and when might you use it?
-<!-- enter you answer in the space below -->
+
 ```
+
+The v-model attribute creates two way binding between the user input and the vuejs component. This will automatically pick up changes and store this value in the data properties of the component. This will be commonly used on a form input to record the user input.
 
 ```
 **6.** The `v:on` (`@`) directive can be used for what?
-<!-- enter you answer in the space below -->
+
 ```
+v:on can be used to dynamically bind one or more attributes to an element.
 
 ```
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
-<!-- enter you answer in the space below -->
+
 ```
+
+v-if, v-else-if, v-else
 
 ```
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
-<!-- enter you answer in the space below -->
+
 ```
+The key attribute tells Vue how your data relates to the HTML elements it's rendering to the screen.
 
 ```
 **9.** What is the `<slot>` element and what is it used for?
-<!-- enter you answer in the space below -->
+
 ```
 
-The <slot> element is used to inject data into another element
+The <slot> element is used to inject data into another element.
 
 ```

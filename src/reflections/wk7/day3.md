@@ -14,3 +14,7 @@ I'm rolling these two questions into one.
 Who among us hasn't been frustrated by a website's UX? And are you likely to use that website again if you don't have to? Websites are the new faces of businesses. They can make you look edgy, friendly, sophisticated, high-end, or any other plethora of adjectives. On the flip side, they can make you look aggressive, underdeveloped, behind the times, corny, tacky, or other bad stuff. UX is all about how you present yourself to the world. Literally anyone would rather go to a website that's easy to use and aesthetically pleasing over one that's disjointed, buggy, or uncomfortable-looking. It plays into the brand that's being built, as well as customer relations. Honestly a good UX most likely won't be noticed, because it's intuitive and easy to navigate. A bad one sure as heck will be noticed. UX is like visual rhetoric and I think it's heckin neat. 
 
 ---
+
+## Why is the User Experience Important? 
+
+see above ^
