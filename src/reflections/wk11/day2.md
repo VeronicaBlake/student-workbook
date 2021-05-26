@@ -1,0 +1,15 @@
+# Relationships
+
+---
+
+## What is the difference between a primary key and a foreign key
+
+Primary keys are unique pieces of information (usually an id) that you can use to refer to records on a table. A Foreign key is another table's primary key used in a different table. This allows the table to reference 
+
+---
+
+## What is an Alias?
+
+---
+
+## Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
