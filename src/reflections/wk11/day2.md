@@ -10,6 +10,9 @@ Primary keys are unique pieces of information (usually an id) that you can use t
 
 ## What is an Alias?
 
+
+An alias is an assignment that is  used to give a table, or a column of a table, a temporary name. 
+
 ---
 
 ## Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
