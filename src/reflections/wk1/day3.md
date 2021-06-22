@@ -1,15 +1,14 @@
-# Day 3 - Building with Bootstrap
+# Day 3 - Cheating at Design
+
 Daily Challenge:
 
 ---
 
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 
-
 ---
 
 ## Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
-
 
 ---
 

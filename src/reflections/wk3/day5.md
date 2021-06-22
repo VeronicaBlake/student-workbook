@@ -1,3 +1,11 @@
-# Day 5 - Freestyle
+# Freestyle
 
-I'm feeling kind of rough. Even if I get things to work, I'm not sure if it's me or the help I receive. I feel like I might not have the aptitude for this, which sucks because this is a world I really want to belong in. The people are my kind of people, the pay is good, and I enjoy learning about programming. So I have resolved myself to do something I never really do: try. I just keep thinking about this boss I had when I worked in promotional materials who took personal offence when I said I don't want to work in customer service, and told me that no matter what, I would wind up doing customer service somehow. While I try not to focus too hard on the fact that he's sort of right (everything really does boil down to clients and keeping them happy, if you break it down far enough), I do focus on the fact that the underlying sentiment in that interaction was that I wasn't good enough to break into something else. So when I think "I can't do this, I should quit", I ask myself: "You know who would just be tickled pink if you flunked out of coding camp? Mike." And I will not give him the satisfaction of giving up on myself like he did. 
+## Day 1
+
+## Day 2
+
+## Day 3
+
+## Day 4
+
+## Day 5
