@@ -30,6 +30,8 @@ Flexbox is much more infuriating than I remember it to be, however I think I'm d
 
 We made CSS stoplight for the morning challenge, and I was really happy with my code. Like, not just like "Oh, this is okay." I was like "This is some well written code." Which felt _awesome_. Granted it's just 5 elements on the page styled with flexbox, and I had to cannibalize my hover pseudo class from the stoplight I wrote before, but it still felt good. It was also different from Mark's, which was cool too. It felt like finding my own voice as a developer.
 
+Getting my sea legs back with bootstrap was a bit rough, but I think that it will be a lot easier from here on out. I did kind of go MIA for a month and didn't get in a lot of practice during that time. Just have to take it slow, and try not to rush or get overwhelmed by the backlog of information and stress in my brain.
+
 ---
 
 ## Day 4
