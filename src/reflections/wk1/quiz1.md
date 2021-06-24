@@ -85,6 +85,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
+Shorthand for flex-grow, flex-shrink, and flex-basis property. It allows you to define how the size of a flex object grows/shrinks to fit the container space.
 
 ```
 
@@ -93,6 +94,6 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+margins, padding, lil bit of borders.
 
 ```
