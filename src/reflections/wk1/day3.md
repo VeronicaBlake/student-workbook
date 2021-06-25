@@ -12,6 +12,13 @@ The most useful takeaway I got from this article is to consider how you want to 
 
 ## Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
 
+http://www.sansfrancis.co/
+https://bootstrapbay.com/blog/bootstrap-button-styles/
+https://themestr.app/
+https://www.heropatterns.com/
+http://colormind.io/
+https://tailwindcss.com/
+
 ---
 
 ## How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?

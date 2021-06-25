@@ -36,6 +36,12 @@ Getting my sea legs back with bootstrap was a bit rough, but I think that it wil
 
 ## Day 4
 
+Partner programming continues to show me the value of working with others. Even on a problem that I'm confident I can solve, there are better and easier ways to approach them. Working with a partner that has a different style of communication is valuable as well, as it takes all kinds. (To do what exactly, I'm not sure, but it takes all kinds.)
+
+This week has really hi-lighted how much I didn't know about Flexbox in particular, but it also made me realize how beneficial it will be to go through the course again. I'm already so much more efficient and at ease with Flexbox, it's awesome. And I now realize that flexbox is used in conjunction with Bootstrap, like always. Shows you my mental state by the end of my last cohort.
+
+The amount of information that I just... didn't absorb the last time around is just crazy to me. Last time I was like a plastic plate getting glaze splashed on me, a little might have stuck but it was such a shallow and tenuous grasp it wasn't really there. This time I feel like an unglazed ceramic mug (why I'm a cup this time I'm not sure), and the information is sinking in. Maybe I really need to just relearn information frequently. This is something I've noticed with books, television, games, etc. The second time I do it, I'm like "Dude, how did I not see this last time?" Makes me feel optimistic about the rest of the course.
+
 ---
 
 ## Day 5
