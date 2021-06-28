@@ -45,3 +45,5 @@ The amount of information that I just... didn't absorb the last time around is j
 ---
 
 ## Day 5
+
+I really need to get better at mobile first design. And I think I actually like using cards more than trying to make my own. Rather, I tried to make my own and it was kind of hot garbage. Something to experiment with in the future.

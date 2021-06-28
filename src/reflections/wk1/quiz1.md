@@ -21,6 +21,7 @@ make directory
 <!-- enter you answer in the space below -->
 
 ```
+I think this is the root element? It's the top level tag.
 
 ```
 
@@ -51,7 +52,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+Selector, Property, Values
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -59,6 +60,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
+font-weight
 
 ```
 
