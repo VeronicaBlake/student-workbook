@@ -9,17 +9,22 @@ var, let and const
 **2.** What is the definition of a function?
 
 ```
+Reusable, self contained modules of code that accomplish a specific task. They are objects, and always return something.
 
 ```
 
 **3.** What are the `SOLID` principles?
 
 ```
-Single Use - everything has one job, and it does that job.
-Open/close principal - open for extension, but closed for modification.
-Liskov Substitution - every subclass or derived class should be substitutable for their base or parent class.
-Interface Segregation Principle - Clients should be able to work your product with the interface they have
-Dependency Inversion - decoupling but more complex.
+Single Use - Methods and functions are only responsible for one thing
+
+Open/close principal - “Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.” - Bertrand Meyer
+
+Liskov Substitution - objects of a superclass can be replaced with objects of its subclasses without breaking the application, so objects of your subclasses have to behave in the same way as the objects of your superclass.
+
+Interface Segregation Principle -“Clients should not be forced to depend upon interfaces that they do not use.” - Robert C. Martin
+
+Dependency Inversion - High-level modules should be easily reusable and unaffected by changes in low-level modules.
 ```
 
 **4.** Given this array:
@@ -31,7 +36,7 @@ let fruit = ["apple", "banana", "pineapple", "orange", "strawberry"];
 What index is the pineapple's current position? How do you know?
 
 ```
-Pineapple is in position 2. It is this way because of the zero based indexing, which means that the first object in the array is at position 0.
+Because of zero based indexing, pineapple is at position 2.
 
 ```
 
@@ -46,17 +51,16 @@ how would you .push the `them` object into the `you` object's array of friends?
 
 ```
 you.friends.push.(them)
+
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 
 ```
-if -  is used to specity a block of code to executed, if a condition is 'truthy'
-    if the dress is blue, print 'true'.
-else - used to specify a block of code to executed, if the same condition of a proceeding if statement is 'falsy'
-      if the dress is blue, print true. else, print false.
-else if - is used to specify a new condition to test if the first condition is false
-      if the dress is blue, print 'true'. else if dress is red, print 'red'.
+if -  if a condition is truthy, do the thing that 'if' specifies. (ex. if the dress is blue, print 'true')
+else - if the if statement is falsey, do this instead. (ex. if the dress is blue, print true. else, print false.)
+else if - if all of the other statements that have been specified are falsey, do this.
+      (ex. if the dress is blue, print 'true'. else if dress is red, print 'red'.)
 
 ```
 
@@ -67,20 +71,20 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 
 ```
-To increase the iteration of i every rotation, you would put "i++". The name of this element is the Increment Statement.
+This is the increment statement, and it's written as "i++"
 ```
 
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 
 ```
-Dom stands for Document Object Model. The file first accessed to render the DOM is HTML and then JavaScript.
+Dom stands for Document Object Model. The file first accessed to render the DOM is the HTML file, and then the JavaScript file.
 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 
 ```
-Data Types: that are primitives
+Data Types:
 undefined
 Boolean
 Number
@@ -93,17 +97,19 @@ Object
 Function
 
 Structural Root Primitive:
-null
+Null
 ```
 
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 
 ```
-A parameter is essentially a placeholder argument. The parameter can show what will be given to the function, but the argument is what is passed in the specific instance.
+A parameter is a placeholder for the argument, at least that's how I think of it. The parameter is what will go into the function or method, and the argument is the specific instance of that thing.
 ```
 
 **11.** What is the difference between a `primitive` value and a `reference` value?
 
 ```
-Values that are primitive store actual values, and reference values store the addresses of the objects they reference.
+
+Primitive variables store the actual values, where reference values store where to find the objects (addresses) they refer to.
+
 ```
