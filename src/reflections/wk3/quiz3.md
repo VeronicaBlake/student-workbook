@@ -35,7 +35,7 @@
 **5.** What the difference between a `class` and an instance of a `class`?
 
 ```
-
+A class is like the qualifications that an object needs in order to be considered a part of the class, and an instance of class is the specific object that we're talking about. The idea of a chair vs an armchair. But in code.
 
 ```
 
@@ -49,7 +49,7 @@
 **7.** What is the purpose of the `MVC` pattern?
 
 ```
-
+The MVC pattern is a standardization
 
 ```
 
