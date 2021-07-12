@@ -1,6 +1,6 @@
 # ES6 modules
 
-Afternoon Project:
+Afternoon Project: https://github.com/VeronicaBlake/zookeeper
 
 ## What problem does using exports solve?
 
