@@ -1,6 +1,6 @@
 # Encapsulation in JavaScript
 
-Afternoon Project:
+Afternoon Project: https://github.com/VeronicaBlake/vendingMachine
 
 ## What is the purpose of Encapsulation?
 
