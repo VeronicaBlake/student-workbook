@@ -1,6 +1,6 @@
 # Intro to Javascript Proxy Objects
 
-Afternoon Challenge:
+Afternoon Challenge: https://github.com/VeronicaBlake/gregslist-mvc
 
 ## What are the two common operations that we will set in the handler?
 
