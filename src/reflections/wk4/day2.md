@@ -1,6 +1,6 @@
 # JavaScript Promises
 
-Afternoon Project:
+Afternoon Project: https://github.com/VeronicaBlake/gregslist-api
 
 ## What are the three states of a Promise?
 
