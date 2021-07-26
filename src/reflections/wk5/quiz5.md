@@ -31,6 +31,7 @@ ORM stands for Object relational mapping.
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
+POST and PUT
 
 ```
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
@@ -51,11 +52,13 @@ let Schema = ________.Schema;
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
+Middleware is anything that blocks a path that every piece of software must go through.
 
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
+Request, Response 
 
 ```
 **9.** 

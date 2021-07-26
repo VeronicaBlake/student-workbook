@@ -1,18 +1,18 @@
 # MongoDb Relationships
 
-https://codeworksacademy.com/fs-student-guide/resources/wk5/02-Relationships/
-
-Project: https://github.com/VeronicaBlake/gregslist-node
+Project: 
 
 ## What are the three types of relationships?
 
-
+ - One to one
+ - One to many
+ - Many to many
 
 ---
 
-## What are the benefits of the traditional linking of relationships instead of Embedding
+## What are the benefits of the traditional linking of relationships instead of Embedding?
 
-
+The benefit of traditional linking in a relationship over embedding is that it's a more efficient way to retrieve the document. 
 
 ---
 
