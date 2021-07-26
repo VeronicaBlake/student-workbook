@@ -1,7 +1,5 @@
 # MongoDb Relationships
 
-
-
 Project: 
 
 ## What is a virtual property?

@@ -1,8 +1,5 @@
 # MongoDb Relationships
 
-https://codeworksacademy.com/fs-student-guide/resources/wk5/02-Relationships/
-
-
 Project: 
 
 ## In simple terms what is a sub-document?
