@@ -1,6 +1,6 @@
 # Async and Await
 
-Afternoon Project:
+Afternoon Project: https://github.com/VeronicaBlake/poke-api2
 
 ## What is the purpose of Async/Await?
 

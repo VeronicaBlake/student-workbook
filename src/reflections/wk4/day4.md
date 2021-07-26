@@ -1,6 +1,6 @@
 # REST
 
-Afternoon Project:
+Afternoon Project: https://github.com/ChesterJGreen/Music-Is-Fun
 
 ## What does REST stand for, and in simple terms what does it mean?
 
