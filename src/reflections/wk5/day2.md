@@ -1,6 +1,6 @@
 # MongoDb Relationships
 
-Project: 
+Project: https://github.com/VeronicaBlake/late-summer21-gregslist-node
 
 ## What are the three types of relationships?
 
