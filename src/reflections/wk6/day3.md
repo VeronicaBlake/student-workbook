@@ -1,10 +1,6 @@
 # Understanding VueJs Lifecycle Hooks
 
-Reading: https://codeworksacademy.com/fs-student-guide/resources/wk6/03-VueLifeCycleHooks/
-
-Diagram: https://vuejs.org/v2/guide/instance#Lifecycle-Diagram
-
-Project: Unable to push to github but I have it on local storage 
+Project: https://github.com/VeronicaBlake/late-summer21-gregslist-vue
 
 ## What are lifecycle hooks? What are lifecycle hooks used for?
 

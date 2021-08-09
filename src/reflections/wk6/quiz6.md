@@ -34,7 +34,7 @@ Liskov Substitution Principle: every child class should be substitutable for the
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-onMount (?)
+the App.vue
 
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
@@ -52,7 +52,7 @@ Services function much like they did with the MVCS format, taking care of perfor
 **10.** Which file contains the root element of your Vue project?
 
 ```
-I'm pretty sure it's App.vue, as that's where everything in a SPA gets moved to, but I'm unsure what the root element is. 
+I'm pretty sure it's App.vue, or index.html
 
 ```
 **11.** The style tag is used to alter the styling of your entire Vue project.  Adding the scoped attribute to this tag will limit it to just the component it exists.  Fill in the blank.
