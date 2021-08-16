@@ -1,7 +1,5 @@
 # Code documentation for JavaScript with JSDoc
 
-
-
 ## What is Code Documentation? What are some of the ways to document code?
 
 Code documentation is essentially annotations for code. They are notes/documentation that allow you to explain/read about how the code works and what it's doing. 
