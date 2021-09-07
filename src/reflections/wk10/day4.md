@@ -1,5 +1,7 @@
 # C# Enums
 
+Afternoon Project: https://github.com/VeronicaBlake/allspice
+
 ---
 
 ## What is an Enum, and what are some use cases for them?

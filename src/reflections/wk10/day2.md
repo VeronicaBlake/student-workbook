@@ -1,5 +1,7 @@
 # C# Lists
 
+Afternoon Project: https://github.com/VeronicaBlake/gregsharp
+
 ---
 
 ## What is a List in C#?

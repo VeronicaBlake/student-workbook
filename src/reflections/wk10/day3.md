@@ -1,5 +1,7 @@
 # Welcome to SQL
 
+Afternoon Project: https://github.com/VeronicaBlake/knights-api
+
 ---
 
 ## In a SQL table, what is the difference between information in a row and information in a column?
